@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d24ac464-b293-4061-994f-a2d0c9654af3" name="Default Changelist" comment="" />
+    <list default="true" id="d24ac464-b293-4061-994f-a2d0c9654af3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.14.2_1/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j8adTp7A7jBkV1UjxBPMYVoxc8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +38,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -103,6 +110,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1603279560839" />
+    <state x="586" y="354" key="Github.ShareDialog" timestamp="1603530184721">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="586" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1603530184721" />
+    <state x="533" y="162" key="Github.UntrackedFilesDialog" timestamp="1603530193042">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603530193042" />
     <state width="1177" height="191" key="GridCell.Tab.0.bottom" timestamp="1603291046678">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -119,6 +134,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1177" height="191" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603291046676" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1603530431935">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603530431935" />
     <state x="627" y="162" width="319" height="525" key="ftp.server.browser" timestamp="1603276930336">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
