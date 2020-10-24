@@ -1,0 +1,9 @@
+version: "2"
+services:
+  app:
+    build: ./
+    volumes:
+      - ./:/app
+      - /home/ubuntu/smth/sent_new:/res
+    extra_hosts:
+      - "dockerhost:"
